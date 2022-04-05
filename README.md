@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Ozzymand/NoteBook/total)
 [![License](https://img.shields.io/github/license/Ozzymand/NoteBook)](https://mit-license.org/)
 
-![alt](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/images/Logo.png)
+![Logo](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/images/Logo.png)
 
 A OneNote clone to surpass the origin.
 
@@ -13,8 +13,13 @@ A OneNote clone to surpass the origin.
 
 ## Table of contents
 
+- [Showcase](#app-design-showcase)
 - [Features](#features)
 - [How to build](#how-to-build)
+
+## App design showcase
+
+![Concept art main](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/images/ConceptArt1.png)
 
 ## Features
 

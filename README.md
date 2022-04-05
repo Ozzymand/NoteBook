@@ -19,7 +19,7 @@ A OneNote clone to surpass the origin.
 
 ## App design showcase
 
-![Concept art main](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/images/ConceptArt1.png)
+![Concept art main](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/Images/ConceptArt1.png)
 
 ## Features
 

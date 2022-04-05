@@ -34,5 +34,7 @@
 # Locals
 *.bat
 test.txt
-.vs
-.vscode
+*.vs
+*.vscode
+x64
+Debug

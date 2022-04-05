@@ -8,28 +8,33 @@ using namespace std;
 // Reads an entire file
 //
 void readFile(const char* filePath) {
-    string fileTextString;
-    if (filePath == nullptr) {
-        // there have been given 0 arguments
-        // warn the mf
-        cout << "No file was specified!";
-    }
-    else {
-        // good, we got a file, now read the whole thing
-        ifstream fileText(filePath);
-        fileText >> fileTextString;
-        cout << fileTextString;
-    }
+	char fileText;
+	if (filePath == nullptr) {
+		// there have been given 0 arguments
+		// warn the mf
+		cout << "No file was specified!\n";
+	}
+	else {
+		// good, we got a file, now read the whole thing
+		ifstream textFile(filePath);
+		while (textFile.good()) {
+			fileText = textFile.get();
+			cout << fileText;
+		}
+	}
 }
 
 int main(int argc, char* argv[])
 {
-    try {
-        // the arguments are already pointer chars, can just straight up pass it lol
-        //
-        readFile(argv[1]); // pass the gas to the function
-    }
-    catch ( exception ErrorReadingFile ) {
-        cout << "Program failed to read file.\nUsed arguments: " << argv[1] << endl;
-    }
+	try {
+		// the arguments are already pointer chars, can just straight up pass it lol
+		//
+		readFile(argv[1]); // pass the gas to the function
+	}
+	catch (exception ErrorReadingFile) {
+		cout << "Program failed to read file.\nUsed arguments: " << argv[1] << endl;
+	}
+
+	getchar(); // stop closing my window :(
+	return 0;
 }

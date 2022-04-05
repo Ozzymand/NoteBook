@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Locals
+*.bat
+test.txt
+.vs
+.vscode

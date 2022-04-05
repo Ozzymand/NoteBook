@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Ozzymand/NoteBook/total)
 [![License](https://img.shields.io/github/license/Ozzymand/NoteBook)](https://mit-license.org/)
 
-![Logo](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/images/Logo.png)
+![Logo banner](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/Images/Logo.png)
 
 A OneNote clone to surpass the origin.
 

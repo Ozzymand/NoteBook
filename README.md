@@ -19,6 +19,8 @@ A OneNote clone to surpass the origin.
 
 ## App design showcase
 
+                                    ALL IMAGES HERE ARE DEMO
+
 ![Concept art main](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/Images/ConceptArt1.png)
 
 ## Features
@@ -30,3 +32,9 @@ A OneNote clone to surpass the origin.
 ## How to build
 
 Open the project file inside `Notebook/src/` and build the release using visual studio or your compiler of choice.
+
+---
+
+Requierments to build this
+
+- [SDL2](https://www.libsdl.org/index.php)

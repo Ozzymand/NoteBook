@@ -37,4 +37,4 @@ test.txt
 .vs/
 .vscode/
 src/x64/
-SDL2/
+build/

@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dependencies\headers\file_handler.h">
+    <ClInclude Include="include\file_handler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

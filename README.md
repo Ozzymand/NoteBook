@@ -5,8 +5,8 @@
 ![Downloads](https://img.shields.io/github/downloads/Ozzymand/NoteBook/total)
 [![License](https://img.shields.io/github/license/Ozzymand/NoteBook)](https://mit-license.org/)
 
-![App logo](images/NightBook_Icon_64.png) 
-![Banner](images/Banner.png)
+![App logo](Images/NightBook_Icon_64.png) 
+![Banner](Images/Banner.png)
 
 A OneNote clone to surpass the origin.
 
@@ -32,7 +32,7 @@ A OneNote clone to surpass the origin.
 
 ## How to build
 
-Open the project file inside `/Notebook/` and build the release using visual studio or your compiler of choice.
+Open the project file inside `/Notebook/src` and build the release using visual studio or your compiler of choice.
 
 ---
 

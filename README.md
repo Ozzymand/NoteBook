@@ -5,8 +5,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Ozzymand/NoteBook/total)
 [![License](https://img.shields.io/github/license/Ozzymand/NoteBook)](https://mit-license.org/)
 
-![App logo](Images/NightBook_Icon_64.png) 
-![Banner](Images/Banner.png)
+![Banner](images/Banner.png)
 
 A OneNote clone to surpass the origin.
 
@@ -20,9 +19,9 @@ A OneNote clone to surpass the origin.
 
 ## App design showcase
 
-                                    ALL IMAGES HERE ARE DEMO
+                                ALL IMAGES HERE ARE DEMO
 
-![Concept art main](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/Images/ConceptArt1.png)
+![Concept art main](https://raw.githubusercontent.com/Ozzymand/NoteBook/main/images/ConceptArt1.png)
 
 ## Features
 

@@ -32,9 +32,7 @@
 *.app
 
 # Locals
-*.bat
 test.txt
 .vs/
 .vscode/
-src/x64/
-build/
+SDL2*/
